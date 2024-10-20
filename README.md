@@ -34,7 +34,7 @@ This system aims to simplify the day-to-day operations of dairy farms, offering 
 
 Technologies Used:
 
-**C#
+C#
 .NET Framework
-Microsoft SQL Server**
+Microsoft SQL Server
 
